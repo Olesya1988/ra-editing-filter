@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-editing-filter/static/css/main.7ea00652.css",
+    "main.js": "/ra-editing-filter/static/js/main.23c52c73.js",
+    "index.html": "/ra-editing-filter/index.html",
+    "main.7ea00652.css.map": "/ra-editing-filter/static/css/main.7ea00652.css.map",
+    "main.23c52c73.js.map": "/ra-editing-filter/static/js/main.23c52c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea00652.css",
+    "static/js/main.23c52c73.js"
+  ]
+}
